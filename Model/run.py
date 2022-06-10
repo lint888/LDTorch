@@ -6,7 +6,7 @@ import os
 import Cla
 
 
-
+#training part
 
 
 traningData =
